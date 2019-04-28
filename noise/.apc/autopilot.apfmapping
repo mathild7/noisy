@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="noisy.cpp" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/noisy/noisy.cpp"/>
+    <originFiles name="noisy.h" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/noisy/noisy.h"/>
+  </source>
+  <testbench>
+    <originFiles name="noisy_test.cpp" path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/noisy/noisy_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
